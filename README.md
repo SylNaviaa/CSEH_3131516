@@ -57,12 +57,6 @@ The application looks like this:
 
 - 🎊 decryption is complete, you can now read or watch your file securely. 🎊
 
-## Code explanation ?? (to keep ?)
-
-```python
-template code
-```
-
 ## Contributer
 
 Côme Bénézet
