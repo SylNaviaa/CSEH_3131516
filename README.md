@@ -2,27 +2,24 @@
 
 LockNKey is a straightforward Python application designed to encrypt and decrypt files with ease.
 
-## Installation // NOT DONE YET
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-python.exe LockNKey.py
-```
-
-or
-
-```bash
-Simply click on the .exe file "dist\
-```
-
-## Launching
+## Installation
 
 To launch LockNKey, you can either :
 
-- run the executable LockNKey.exe from the dist folder.
+- run the executable LockNKey.exe in the dist folder
 
-- install the necessary dependencies and execute the command below.
+```bash
+└── dist
+    └── LockNKey.exe
+```
+
+OR
+
+- install the necessary dependencies by executing the command below.
+
+```bash
+pip install -r requirements.txt
+```
 
 ```bash
 python.exe .\LockNKey.py
